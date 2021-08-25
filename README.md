@@ -1,2 +1,2 @@
 # Weather-App
-A simple weather app for everyone!
+weather app project. Completed project is hosted live here: https://tinyurl.com/nxpj2t48
